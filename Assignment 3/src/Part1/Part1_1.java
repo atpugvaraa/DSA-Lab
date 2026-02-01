@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Question1 {
+public class Part1_1 {
     // 1. Single Inheritance
 
     public static void main(String[] args) {
